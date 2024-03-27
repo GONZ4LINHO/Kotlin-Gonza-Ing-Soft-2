@@ -1,4 +1,4 @@
-package com.example.androidgonza.Auto
+package com.example.androidgonza.Test
 
 import com.example.androidgonza.Auto
 import org.junit.Test
